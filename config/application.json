@@ -1,0 +1,27 @@
+{
+  "title": "The Weather Company",
+  "appid": "",
+  "group": "",
+  "webmapX": "f0232846b8fc4e97b7ddca7b6b6ac81f",
+  "webscene": "dacf134d8d5a4ddfb29889353f88ccc5",
+  "portalUrl": "https://www.arcgis.com",
+  "oauthappid": "hrFP8yDGOiGFx4ub",
+  "proxyUrl": "https://maps.esri.com/proxy/DotNet/proxy.ashx",
+  "units": "dual",
+  "helperServices": {
+    "geometry": {
+      "url": null
+    },
+    "printTask": {
+      "url": null
+    },
+    "elevationSync": {
+      "url": null
+    },
+    "geocode": [
+      {
+        "url": null
+      }
+    ]
+  }
+}
